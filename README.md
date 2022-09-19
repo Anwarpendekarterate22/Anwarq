@@ -1,5 +1,5 @@
- # hello word
+ # hello-word
 
 My first repository on github
 
-I love :coffee:  :burger: and  :pizza:
+I love :coffee:  :pizza:  and :dancing:
